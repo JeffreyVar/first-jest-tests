@@ -1,0 +1,23 @@
+{
+  "name": "first-jest-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyVar/first-jest-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyVar/first-jest-tests/issues"
+  },
+  "homepage": "https://github.com/JeffreyVar/first-jest-tests#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
